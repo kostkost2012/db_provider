@@ -1,0 +1,1 @@
+Позволяет создать БД в postgres или mssql, путем указания параметров окружения DB_TYPE (postgres или mssql),DB_HOST,DB_PORT,DB_USER,DB_PASS,DB_NAME 
