@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "DbShell": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DB_USER": "postgres",
+        "DB_PORT": "5432",
+        "DB_PASS": "1234",
+        "DB_HOST": "localhost",
+        "DB_TYPE": "postgres"
+      }
+    }
+  }
+}
